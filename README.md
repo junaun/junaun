@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jun Aun, I like to make cool things 🤗
+### Hi there 👋, I'm Jun Aun
 
 #### 💫 [junaun.org](https://junaun.org)
 <!--
