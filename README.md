@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jun Aun
 
-#### 💫 [junaun.org](https://junaun.org)
+<!-- #### 💫 [junaun.org](https://junaun.github.io) -->
 <!--
 **junaun/junaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
